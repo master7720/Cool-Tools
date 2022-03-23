@@ -1,0 +1,26 @@
+ODESA YAMULTUR 2.0 - TURKISH FLOOD AND D.D.O.S MODULE
+----------------------------------------------------- 
+Kodlama Tasarým : ODESA
+Grafik Tasarým  : ODESA
+Msn             : odysseydhtbluefire@hotmail.com	
+E-Mail          : odesa@hackermail.com
+-----------------------------------------------------
+Odesa Yamultur Antirus Ve Yamultucu Teknolojisi Örnek Alýnarak
+Bina Edilmiþ gelmiþ, geçmiþ en etkili d.d.o.s aracýdýr.
+Özel ekipmanlar donatýlmýþtýr.
+
+Handler:
+Flood Korumalarýný aþmaya yarar.
+Saldýrý Analizör:
+Saldýrý yaparken size saldýrýnýn þiddetini grafiksel olarak verir.
+Sistem Analizör:
+Geliþmiþ ekstra saldýrý araçlarýný içeren bir modüldür
+Zaman Zaman kapatýlýr.Sýklýkla bakýnýz.
+
+Kullanýmý:
+Kullanýmý Çok Basittir Hedef yazan yerin karþýsýný saldýracaðýnýz adresi yazmanýz yeterlidir.
+Robot ise baðlantý hýzýnýza göre ayný anda baðlanabilen saldýrý kitlerinin sayýsýný ayarlamanýz içindir 512 kps için 400-600 arasý idealdir.
+
+Kolay Gelsin. NE MUTLU TÜRKÜM DÝYENE!
+---------------------------------------------------------
+COPYRIGHT (c) 2007 TURKIYE  
